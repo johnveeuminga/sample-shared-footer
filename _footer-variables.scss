@@ -1,0 +1,11 @@
+$primary: #00BF00;
+$secondary: #019CDF;
+
+// Footer variables
+$footer-bg: #f0f0f0 !default;
+$footer-nav-columns: 2;
+$footer-color: #3d3d3d;
+$footer-nav-link-color: $footer-color;
+$footer-nav-link-hover-color: $primary;
+$footer-copyright-bg: darken($footer-bg, 50%);
+$footer-logo-max-width: 180px;
